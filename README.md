@@ -49,7 +49,7 @@ Designing a memory‑efficient architecture from scratch, integrating deformable
 
 ---
 
-### 🧰 How I Work
+### ⚙️ How I Work
 
 **Computer Vision Core**  
 `PyTorch` `timm` `Albumentations` `OpenCV` `HuggingFace` - used daily for model prototyping and training.
