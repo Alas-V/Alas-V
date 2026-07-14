@@ -40,6 +40,11 @@ The model is optimised to serve as a semantic guide for a downstream segmentatio
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Alas-V/ConvNeXt-CLF-75)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Model-ffd21e?style=flat-square)](https://huggingface.co/Alas-V/convnext-clf-75)
 
+But can be used completely independently as a food classifier
+
+[![HF Space](https://img.shields.io/badge/HF%20Space-🚀%20Try%20for%20free-FFB800?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Alas-V/ConvNeXt-Food-CLF-75)
+
+
 ---
 
 ### 🚧 Work in Progress
